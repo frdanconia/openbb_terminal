@@ -1,0 +1,4 @@
+        Amount
+Ticker        
+OXY      80.87
+AMZN     47.90

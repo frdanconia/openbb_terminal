@@ -1,0 +1,2 @@
+                                  long_name         family     category
+DWSH  AdvisorShares Dorsey Wright Short ETF  AdvisorShares  Bear Market

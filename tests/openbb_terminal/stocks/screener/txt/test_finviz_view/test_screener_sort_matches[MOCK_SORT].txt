@@ -1,0 +1,4 @@
+Wrong sort column provided! Provide one of these: Ticker, Company, Sector, Industry, Country, Market Cap, P/E, Price, Change, Volume
+  Ticker                 Company             Sector          Industry Country Market Cap P/E  Price  Change   Volume
+0   SECO   Secoo Holding Limited  Consumer Cyclical   Internet Retail   China     26.9 M       3.77  1.2440   80.2 M
+1   BBBY  Bed Bath & Beyond Inc.  Consumer Cyclical  Specialty Retail     USA    750.7 M       5.86  0.9213  247.1 M

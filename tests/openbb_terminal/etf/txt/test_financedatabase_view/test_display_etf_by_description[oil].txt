@@ -1,0 +1,6 @@
+                                                            long_name                             family                  category
+XLE                                    Energy Select Sector SPDR Fund  SPDR State Street Global Advisors             Equity Energy
+PDBC  Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF                            Invesco                      None
+XOP                   SPDR S&P Oil & Gas Exploration & Production ETF  SPDR State Street Global Advisors             Equity Energy
+USO                                        United States Oil Fund, LP                   USCF Investments                      None
+DBC                          Invesco DB Commodity Index Tracking Fund                            Invesco  Commodities Broad Basket

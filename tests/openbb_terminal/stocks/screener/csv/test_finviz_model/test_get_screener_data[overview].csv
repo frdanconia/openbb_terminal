@@ -1,0 +1,156 @@
+,Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume
+0,SECO,Secoo Holding Limited,Consumer Cyclical,Internet Retail,China,26920000.0,,3.77,1.244,80208897.0
+1,BBBY,Bed Bath & Beyond Inc.,Consumer Cyclical,Specialty Retail,USA,750670000.0,,5.86,0.9213,247111298.0
+2,ZENV,Zenvia Inc.,Technology,Software - Infrastructure,Brazil,58050000.0,,1.39,0.1681,889892.0
+3,EXPR,"Express, Inc.",Consumer Cyclical,Apparel Retail,USA,97530000.0,,1.37,0.161,11066786.0
+4,HCDIP,"Harbor Custom Development, Inc.",Real Estate,Real Estate - Development,USA,7940000.0,12.53,5.79,0.158,85099.0
+5,MNMD,Mind Medicine (MindMed) Inc.,Healthcare,Biotechnology,USA,150280000.0,,4.0,0.1561,2132913.0
+6,THCH,TH International Limited,Consumer Cyclical,Restaurants,China,621460000.0,,4.12,0.1476,491769.0
+7,SKYX,SKYX Platforms Corp.,Industrials,Electrical Equipment & Parts,USA,316840000.0,,3.84,0.1463,396775.0
+8,HRTX,"Heron Therapeutics, Inc.",Healthcare,Biotechnology,USA,394580000.0,,3.25,0.1444,3363394.0
+9,CDTX,"Cidara Therapeutics, Inc.",Healthcare,Biotechnology,USA,110940000.0,,1.72,0.1391,3615882.0
+10,AEYE,"AudioEye, Inc.",Technology,Software - Application,USA,75690000.0,,6.74,0.1328,92780.0
+11,NMTR,"9 Meters Biopharma, Inc.",Healthcare,Biotechnology,USA,34110000.0,,2.61,0.12990000000000002,116012.0
+12,BYSI,BeyondSpring Inc.,Healthcare,Biotechnology,USA,118730000.0,,3.05,0.12960000000000002,627051.0
+13,FAZE,FaZe Holdings Inc.,Communication Services,Internet Content & Information,USA,84230000.0,230.0,1.15,0.1275,3534422.0
+14,ADES,"Advanced Emissions Solutions, Inc.",Industrials,Pollution & Treatment Controls,USA,59300000.0,,3.23,0.12539999999999998,311564.0
+15,PALT,"Paltalk, Inc.",Technology,Software - Application,USA,39960000.0,,4.09,0.1252,689847.0
+16,AMC,"AMC Entertainment Holdings, Inc.",Communication Services,Entertainment,USA,3510000000.0,,6.8,0.1184,61563886.0
+17,DUOT,"Duos Technologies Group, Inc.",Technology,Software - Application,USA,33780000.0,,5.02,0.11560000000000001,144837.0
+18,DCTH,"Delcath Systems, Inc.",Healthcare,Medical Devices,USA,39330000.0,,4.08,0.1148,81977.0
+19,GRCL,Gracell Biotechnologies Inc.,Healthcare,Biotechnology,China,160600000.0,,2.35,0.1137,3029073.0
+20,AACG,ATA Creativity Global,Consumer Defensive,Education & Training Services,China,49960000.0,,1.67,0.11320000000000001,13230.0
+21,LSI,"Life Storage, Inc.",Real Estate,REIT - Industrial,USA,10570000000.0,30.59,123.05,0.1128,4315445.0
+22,LANV,Lanvin Group Holdings Limited,Consumer Cyclical,Luxury Goods,China,934250000.0,20.3,6.8,0.11109999999999999,493030.0
+23,DSKE,"Daseke, Inc.",Industrials,Trucking,USA,519539999.99999994,12.35,8.35,0.1104,1043319.0
+24,CTM,"Castellum, Inc.",Technology,Information Technology Services,USA,47470000.0,,1.22,0.1091,792895.0
+25,HARP,"Harpoon Therapeutics, Inc.",Healthcare,Biotechnology,USA,37560000.0,,1.13,0.10779999999999999,426412.0
+26,SCX,The L.S. Starrett Company,Industrials,Tools & Accessories,USA,67710000.0,4.96,9.15,0.10769999999999999,94038.0
+27,AURA,"Aura Biosciences, Inc.",Healthcare,Biotechnology,USA,419480000.0,,11.21,0.1066,67903.0
+28,MDXG,"MiMedx Group, Inc.",Healthcare,Medical Devices,USA,511590000.0,,4.49,0.1059,1086096.0
+29,DRIO,DarioHealth Corp.,Healthcare,Diagnostics & Research,USA,137500000.0,,5.67,0.10529999999999999,253941.0
+30,RGTI,"Rigetti Computing, Inc.",Technology,Computer Hardware,USA,117100000.0,,1.16,0.1048,5714631.0
+31,SANG,Sangoma Technologies Corporation,Technology,Software - Infrastructure,Canada,116930000.0,,5.29,0.10439999999999999,17449.0
+32,NSSC,"Napco Security Technologies, Inc.",Industrials,Security & Protection Services,USA,1250000000.0,69.57,34.37,0.10369999999999999,1523351.0
+33,XELA,"Exela Technologies, Inc.",Technology,Software - Application,USA,8690000.0,,0.07,0.10369999999999999,397628010.0
+34,PEPG,PepGen Inc.,Healthcare,Biotechnology,USA,408570000.0,,16.96,0.1027,41185.0
+35,SNPX,"Synaptogenix, Inc.",Healthcare,Biotechnology,USA,9470000.0,,1.31,0.1008,156211.0
+36,LUCY,"Innovative Eyewear, Inc.",Healthcare,Medical Instruments & Supplies,USA,19460000.0,,2.55,0.09910000000000001,2454489.0
+37,PYR,PyroGenesis Canada Inc.,Industrials,Specialty Industrial Machinery,Canada,272830000.0,,1.13,0.0987,91177.0
+38,MARK,"Remark Holdings, Inc.",Communication Services,Internet Content & Information,USA,17350000.0,,2.01,0.0984,7031173.0
+39,GALT,Galectin Therapeutics Inc.,Healthcare,Biotechnology,USA,78290000.0,,1.46,0.0981,204763.0
+40,CMND,Caleminder Inc.,Healthcare,Biotechnology,Canada,14170000.0,,4.06,0.0973,57730.0
+41,SNAP,Snap Inc.,Communication Services,Internet Content & Information,USA,19690000000.0,,12.07,0.0973,62442943.0
+42,NXTP,"NextPlay Technologies, Inc.",Technology,Software - Infrastructure,USA,18420000.0,,3.0,0.0969,144580.0
+43,OTLK,"Outlook Therapeutics, Inc.",Healthcare,Biotechnology,USA,334620000.0,,1.26,0.09570000000000001,1477322.0
+44,VERI,"Veritone, Inc.",Technology,Software - Infrastructure,USA,381160000.0,,9.89,0.09519999999999999,4590895.0
+45,FLNT,"Fluent, Inc.",Communication Services,Advertising Agencies,USA,129570000.0,,1.61,0.09519999999999999,403553.0
+46,BLCM,"Bellicum Pharmaceuticals, Inc.",Healthcare,Biotechnology,USA,11160000.0,,1.4,0.09380000000000001,47612.0
+47,GHRS,GH Research PLC,Healthcare,Biotechnology,Ireland,522140000.0,,10.2,0.0932,29102.0
+48,FTK,"Flotek Industries, Inc.",Energy,Oil & Gas Equipment & Services,USA,100800000.0,,1.29,0.0932,1063599.0
+49,HROW,"Harrow Health, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,USA,520140000.0,,19.13,0.0931,805032.0
+50,ACRV,"Acrivon Therapeutics, Inc.",Healthcare,Biotechnology,USA,433990000.0,,20.78,0.0908,61893.0
+51,JAN,JanOne Inc.,Industrials,Waste Management,USA,5670000.0,,1.75,0.0906,136142.0
+52,NA,Nano Labs Ltd,Technology,Semiconductors,China,82670000.0,,1.48,0.09050000000000001,48796.0
+53,AIRS,"AirSculpt Technologies, Inc.",Healthcare,Medical Care Facilities,USA,410120000.0,,7.66,0.08960000000000001,827059.0
+54,DBTX,"Decibel Therapeutics, Inc.",Healthcare,Biotechnology,USA,89420000.0,,3.54,0.0892,469966.0
+55,CACO,Caravelle International Group,Industrials,Marine Shipping,Singapore,92540000.0,,1.72,0.0886,81168.0
+56,GWAV,"Greenwave Technology Solutions, Inc.",Industrials,Waste Management,USA,12840000.0,,1.23,0.0885,1015323.0
+57,LIPO,Lipella Pharmaceuticals Inc.,Healthcare,Biotechnology,USA,17080000.0,,2.95,0.0885,2712749.0
+58,ETNB,"89bio, Inc.",Healthcare,Biotechnology,USA,642820000.0,,14.4,0.0876,2308199.0
+59,ICPT,"Intercept Pharmaceuticals, Inc.",Healthcare,Biotechnology,USA,861520000.0,,20.66,0.0862,1165297.0
+60,UPXI,"Upexi, Inc.",Communication Services,Internet Content & Information,USA,62250000.0,,3.54,0.0862,57666.0
+61,LVLU,"Lulu's Fashion Lounge Holdings, Inc.",Consumer Cyclical,Apparel Retail,USA,143370000.0,,3.72,0.08449999999999999,124578.0
+62,PRST,"Presto Automation, Inc.",Technology,Software - Application,USA,206680000.0,29.48,3.98,0.08449999999999999,101029.0
+63,IFBD,"Infobird Co., Ltd",Technology,Software - Application,China,8570000.0,,1.3,0.0833,170399.0
+64,NCPL,Netcapital Inc.,Financial,Capital Markets,USA,8340000.0,1.68,1.44,0.0827,78705.0
+65,GBR,"New Concept Energy, Inc.",Energy,Oil & Gas E&P,USA,7140000.0,62.61,1.44,0.0827,167804.0
+66,MESO,Mesoblast Limited,Healthcare,Biotechnology,Australia,586120000.0,,3.96,0.08199999999999999,399893.0
+67,ISPO,Inspirato Incorporated,Consumer Cyclical,Leisure,USA,163710000.0,,1.33,0.08130000000000001,476292.0
+68,LVWR,"LiveWire Group, Inc.",Consumer Cyclical,Auto Manufacturers,USA,1400000000.0,54.03,7.24,0.0806,27946.0
+69,MTEK,Maris-Tech Ltd.,Technology,Electronic Components,Israel,8420000.0,,1.09,0.0803,231267.0
+70,SPCB,SuperCom Ltd.,Industrials,Security & Protection Services,Israel,9280000.0,,2.69,0.0803,263962.0
+71,CELH,"Celsius Holdings, Inc.",Consumer Defensive,Beverages - Non-Alcoholic,USA,7750000000.0,,99.45,0.0795,2050807.0
+72,CODA,"Coda Octopus Group, Inc.",Industrials,Aerospace & Defense,USA,85020000.0,20.39,7.75,0.0794,28259.0
+73,BTCS,BTCS Inc.,Financial,Capital Markets,USA,24710000.0,,2.2,0.0784,211152.0
+74,HUT,Hut 8 Mining Corp.,Financial,Capital Markets,Canada,760100000.0,,2.38,0.07690000000000001,14646238.0
+75,APDN,"Applied DNA Sciences, Inc.",Healthcare,Diagnostics & Research,USA,20570000.0,,1.83,0.0765,259492.0
+76,EIGR,"Eiger BioPharmaceuticals, Inc.",Healthcare,Biotechnology,USA,102020000.0,,2.26,0.0762,727689.0
+77,GRNQ,Greenpro Capital Corp.,Industrials,Conglomerates,Malaysia,12150000.0,,1.58,0.0747,617728.0
+78,SEED,Origin Agritech Limited,Basic Materials,Agricultural Inputs,China,63850000.0,,9.44,0.0745,15260.0
+79,AGBA,AGBA Group Holding Limited,Financial,Shell Companies,Hong Kong,146830000.0,,2.32,0.0741,21083.0
+80,TRDA,"Entrada Therapeutics, Inc.",Healthcare,Biotechnology,USA,430750000.0,,15.45,0.0729,47782.0
+81,SIEN,"Sientra, Inc.",Healthcare,Medical Devices,USA,22210000.0,,2.07,0.0725,313762.0
+82,GME,GameStop Corp.,Consumer Cyclical,Specialty Retail,USA,7410000000.0,,23.86,0.0724,8567844.0
+83,GNE,Genie Energy Ltd.,Utilities,Utilities - Regulated Electric,USA,315680000.0,4.86,12.25,0.0717,204012.0
+84,CTMX,"CytomX Therapeutics, Inc.",Healthcare,Biotechnology,USA,183460000.0,,2.84,0.0717,1973272.0
+85,EMAN,eMagin Corporation,Technology,Semiconductor Equipment & Materials,USA,89200000.0,,1.21,0.0708,624323.0
+86,ATHX,"Athersys, Inc.",Healthcare,Biotechnology,USA,22170000.0,,1.82,0.0706,584842.0
+87,MLGO,"MicroAlgo, Inc.",Technology,Software - Infrastructure,China,105120000.0,193.64,2.13,0.0704,172087.0
+88,MNTX,"Manitex International, Inc.",Industrials,Farm & Heavy Construction Machinery,USA,98340000.0,,5.03,0.0702,52713.0
+89,GHM,Graham Corporation,Industrials,Specialty Industrial Machinery,USA,122350000.0,,11.63,0.0699,110389.0
+90,TGL,Treasure Global Inc.,Technology,Software - Application,USA,34230000.0,,1.99,0.0699,74662.0
+91,MSC,Studio City International Holdings Limited,Consumer Cyclical,Resorts & Casinos,Hong Kong,1590000000.0,,7.06,0.0695,18328.0
+92,FARM,Farmer Bros. Co.,Consumer Defensive,Packaged Foods,USA,106180000.0,,5.39,0.0694,32866.0
+93,KOSS,Koss Corporation,Technology,Consumer Electronics,USA,58150000.0,6.42,6.2,0.0689,398917.0
+94,PRE,Prenetics Global Limited,Healthcare,Diagnostics & Research,Hong Kong,191600000.0,,1.57,0.068,199088.0
+95,ALXO,ALX Oncology Holdings Inc.,Healthcare,Biotechnology,USA,401630000.0,,9.31,0.0677,144890.0
+96,VMAR,Vision Marine Technologies Inc.,Consumer Cyclical,Recreational Vehicles,Canada,35730000.0,,4.61,0.06709999999999999,18874.0
+97,HEXO,HEXO Corp.,Healthcare,Drug Manufacturers - Specialty & Generic,Canada,102660000.0,,1.75,0.06709999999999999,571750.0
+98,IMRA,IMARA Inc.,Healthcare,Biotechnology,USA,131810000.0,,5.3,0.0664,82375.0
+99,ASPI,ASP Isotopes Inc.,Basic Materials,Chemicals,USA,58630000.0,,1.94,0.0659,99893.0
+100,DOMH,Dominari Holdings Inc.,Healthcare,Biotechnology,USA,22390000.0,,4.07,0.0654,117635.0
+101,LIFE,"aTyr Pharma, Inc.",Healthcare,Biotechnology,USA,69240000.0,,2.45,0.0652,386359.0
+102,GAME,"Engine Gaming and Media, Inc.",Communication Services,Advertising Agencies,Canada,34180000.0,,1.8,0.06509999999999999,451404.0
+103,AI,"C3.ai, Inc.",Technology,Information Technology Services,USA,2570000000.0,,27.55,0.0645,103723797.0
+104,SVRE,SaverOne 2014 Ltd,Technology,Scientific & Technical Instruments,Israel,8780000.0,,1.65,0.0645,211503.0
+105,ARC,"ARC Document Solutions, Inc.",Industrials,Specialty Business Services,USA,155330000.0,13.54,3.63,0.0645,316619.0
+106,TGTX,"TG Therapeutics, Inc.",Healthcare,Biotechnology,USA,2780000000.0,,18.48,0.0645,4006271.0
+107,RBOT,Vicarious Surgical Inc.,Healthcare,Medical Devices,USA,392030000.0,9.81,3.14,0.0644,289455.0
+108,SHPH,"Shuttle Pharmaceuticals Holdings, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,USA,29380000.0,,2.16,0.064,153270.0
+109,ZTEK,Zentek Ltd.,Healthcare,Medical Instruments & Supplies,Canada,149300000.0,,1.5,0.0638,77981.0
+110,POLA,"Polar Power, Inc.",Industrials,Electrical Equipment & Parts,USA,24140000.0,,1.85,0.0632,47303.0
+111,SOPA,Society Pass Incorporated,Technology,Software - Application,Singapore,31770000.0,,1.19,0.0625,142272.0
+112,CELC,Celcuity Inc.,Healthcare,Diagnostics & Research,USA,216420000.0,,10.38,0.062400000000000004,29629.0
+113,AE,"Adams Resources & Energy, Inc.",Energy,Oil & Gas Integrated,USA,137110000.0,18.72,57.61,0.0613,46794.0
+114,CANO,"Cano Health, Inc.",Healthcare,Medical Care Facilities,USA,718320000.0,,1.58,0.0604,8205002.0
+115,PEAR,"Pear Therapeutics, Inc.",Healthcare,Health Information Services,USA,173690000.0,,1.23,0.0603,221301.0
+116,TSVT,"2seventy bio, Inc.",Healthcare,Biotechnology,USA,562350000.0,,14.98,0.0602,681641.0
+117,VAXX,"Vaxxinity, Inc.",Healthcare,Biotechnology,USA,514440000.00000006,,4.24,0.06,368301.0
+118,PGY,Pagaya Technologies Ltd.,Technology,Software - Infrastructure,Israel,830060000.0,,1.24,0.059800000000000006,4462959.0
+119,PAYS,"PaySign, Inc.",Industrials,Specialty Business Services,USA,179240000.0,427.5,3.42,0.0588,403661.0
+120,TATT,TAT Technologies Ltd.,Industrials,Aerospace & Defense,Israel,53490000.0,,6.03,0.0588,60956.0
+121,PROK,ProKidney Corp.,Healthcare,Biotechnology,USA,2550000000.0,,11.0,0.0587,117858.0
+122,THR,"Thermon Group Holdings, Inc.",Industrials,Specialty Industrial Machinery,USA,824990000.0,22.8,25.4,0.0583,468282.0
+123,MNPR,Monopar Therapeutics Inc.,Healthcare,Biotechnology,USA,46050000.0,,3.64,0.0581,68959.0
+124,SST,"System1, Inc.",Industrials,Specialty Business Services,USA,459310000.0,,4.98,0.057300000000000004,53312.0
+125,TTOO,"T2 Biosystems, Inc.",Healthcare,Diagnostics & Research,USA,11000000.0,,1.48,0.0571,205751.0
+126,SNES,"SenesTech, Inc.",Basic Materials,Specialty Chemicals,USA,2630000.0,,4.45,0.057,1919844.0
+127,FCAP,"First Capital, Inc.",Financial,Banks - Regional,USA,93510000.0,7.96,28.25,0.056900000000000006,16503.0
+128,CDMO,"Avid Bioservices, Inc.",Healthcare,Biotechnology,USA,1090000000.0,13.01,17.11,0.056799999999999996,569991.0
+129,BBGI,"Beasley Broadcast Group, Inc.",Communication Services,Broadcasting,USA,39300000.0,,1.31,0.0565,94735.0
+130,PLBC,Plumas Bancorp,Financial,Banks - Regional,USA,253690000.0,9.77,43.74,0.0555,32912.0
+131,TALS,"Talaris Therapeutics, Inc.",Healthcare,Biotechnology,USA,77880000.0,,1.72,0.0552,152385.0
+132,NAT,Nordic American Tankers Limited,Industrials,Marine Shipping,Bermuda,676250000.0,,3.26,0.055,3906324.0
+133,PGEN,"Precigen, Inc.",Healthcare,Biotechnology,USA,481770000.0,,1.93,0.0546,2957270.0
+134,RANI,"Rani Therapeutics Holdings, Inc.",Healthcare,Biotechnology,USA,289750000.0,,5.85,0.0541,63037.0
+135,FAT,FAT Brands Inc.,Consumer Cyclical,Restaurants,USA,124240000.0,,7.48,0.0535,10888.0
+136,UIHC,United Insurance Holdings Corp.,Financial,Insurance - Property & Casualty,USA,112200000.0,,2.56,0.0535,219217.0
+137,BBIO,"BridgeBio Pharma, Inc.",Healthcare,Biotechnology,USA,1750000000.0,,11.44,0.053399999999999996,2282651.0
+138,GRPH,"Graphite Bio, Inc.",Healthcare,Biotechnology,USA,133550000.00000001,,2.18,0.053099999999999994,153718.0
+139,EKSO,"Ekso Bionics Holdings, Inc.",Healthcare,Medical Instruments & Supplies,USA,23480000.0,,1.79,0.0529,37581.0
+140,HUSA,Houston American Energy Corp.,Energy,Oil & Gas E&P,USA,37570000.0,,3.78,0.0529,129832.0
+141,BVXV,BiondVax Pharmaceuticals Ltd.,Healthcare,Biotechnology,Israel,5160000.0,,2.79,0.0528,169243.0
+142,GB,Global Blue Group Holding AG,Technology,Information Technology Services,Switzerland,1390000000.0,,7.58,0.0528,62345.0
+143,RMBL,"RumbleON, Inc.",Consumer Cyclical,Internet Retail,USA,159390000.0,3.19,9.59,0.0527,280535.0
+144,PTPI,"Petros Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,USA,5910000.0,,2.8,0.0526,22112.0
+145,HUGE,FSD Pharma Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,Canada,61520000.0,,1.22,0.051699999999999996,106466.0
+146,OPGN,"OpGen, Inc.",Healthcare,Diagnostics & Research,USA,5160000.0,,1.83,0.051699999999999996,1412733.0
+147,ARRY,"Array Technologies, Inc.",Technology,Solar,USA,3200000000.0,,20.8,0.0516,6568069.0
+148,SPRB,"Spruce Biosciences, Inc.",Healthcare,Biotechnology,USA,75280000.0,,3.06,0.051500000000000004,155458.0
+149,REAX,The Real Brokerage Inc.,Real Estate,Real Estate Services,Canada,333000000.0,,1.43,0.051500000000000004,105762.0
+150,NICK,"Nicholas Financial, Inc.",Financial,Credit Services,USA,47650000.0,,7.28,0.0513,15708.0
+151,RAIN,Rain Therapeutics Inc.,Healthcare,Biotechnology,USA,371150000.0,,10.25,0.0513,231051.0
+152,LTRN,Lantern Pharma Inc.,Healthcare,Biotechnology,USA,65700000.0,,6.0,0.0508,50125.0
+153,VKTX,"Viking Therapeutics, Inc.",Healthcare,Biotechnology,USA,740420000.0,,9.56,0.050499999999999996,1655183.0
+154,OSA,"ProSomnus, Inc.",Healthcare,Medical Devices,USA,84940000.0,,5.25,0.05,10448.0

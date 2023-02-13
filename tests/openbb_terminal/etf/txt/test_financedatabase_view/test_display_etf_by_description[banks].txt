@@ -1,0 +1,6 @@
+                              long_name                             family   category
+XLF   Financial Select Sector SPDR Fund  SPDR State Street Global Advisors  Financial
+KRE       SPDR S&P Regional Banking ETF  SPDR State Street Global Advisors  Financial
+KBE                   SPDR S&P Bank ETF  SPDR State Street Global Advisors  Financial
+KBWB               Invesco KBW Bank ETF                            Invesco  Financial
+IAT     iShares U.S. Regional Banks ETF                            iShares  Financial
